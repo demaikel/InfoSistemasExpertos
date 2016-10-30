@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/projectBtn"
+    android:theme="@style/PrimaryButton"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="14dp"
+    android:layout_alignParentBottom="true"
+    android:textColor="@android:color/white"
+    android:text="Esta es tu Oportunidad"
+    android:layout_marginTop="50dp">
+</Button>
